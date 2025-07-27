@@ -1,4 +1,4 @@
-# Whimsy -- Write with no abandon ✍️✨ 
+# Whimsy -- Putting the whimsy back into writing ✍️✨ 
 
 ## TODO: 
 - [ ] Get Flask up and running.
